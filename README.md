@@ -23,7 +23,7 @@ rutas extra:
 ### Versiones
 * _Java: version 17
 * _Maven: versión 4 en adelante_
-* _Spring: versión 3.2.3_
+* _Spring: versión 3.5.4_
 * _MySQL: versión 8 en adelante_
 * _Postgres: versión 16 en adelante_
 
